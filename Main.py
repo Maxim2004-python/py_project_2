@@ -1,4 +1,9 @@
 
 from funcs import func
 
-func(1.2)
+from funcs import min
+
+func(1, 2)
+
+min(2,1)
+
